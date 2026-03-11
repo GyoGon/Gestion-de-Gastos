@@ -2,7 +2,7 @@
 
 Control de gastos de tarjeta de crédito. Pega tu cartola o estado de cuenta, ve cuánto debes en el período actual y guarda el historial por mes.
 
-Los formatos de texto soportados están modelados según los documentos que entrega Santander Chile: la cartola online (copiada desde el sitio del banco) y el PDF del estado de cuenta mensual.
+Los formatos de texto soportados están modelados según los documentos que entrega Santander Chile: la cartola online de estado actual(específicamente la sección de monto por facturar, copiada desde el sitio del banco) y el PDF del estado de cuenta mensual.
 
 ## Stack
 
